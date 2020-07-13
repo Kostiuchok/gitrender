@@ -3,12 +3,12 @@
 	margin: 0;
 }
 
-<<<<<<< HEAD
 body {
 	font-size: 1.2em;
 	background-color: #fff;
 	color: #555;
 }
+
 p {
 	padding: 0 0 20px 0;
 	line-height: 1.2em;
@@ -34,14 +34,13 @@ a, a:hover {
 ul {
 	margin: 2px 0 22px 177px;
 }
+
 ul li {
 	margin: 0 0 6px 0;
 	padding: 0 0 4px 5px;
 	line-height: 1.5em;
 }
 
-=======
->>>>>>> f8203425453b08197bb6f68014a8e415fcd330f4
 input[type="text"],[type="password"],[type="search"] {
 	color: #5d5d5d;
 	width: 60%;
@@ -54,12 +53,10 @@ input, textarea {
 	border: solid 1px #f2f2f2;
 }
 
-<<<<<<< HEAD
 hr {
 	border: solid 1px #f3f3f3; 
 }
 
-=======
 h1, h2 {
 	font: 170% 'century gothic', arial;
 	margin: 0 0 15px 0;
@@ -77,9 +74,6 @@ a, a:hover {
 	color: #aeb002;
 }
 
-
-
->>>>>>> f8203425453b08197bb6f68014a8e415fcd330f4
 .header {
 	background-color: darkslateblue;
 	height: 177px;
@@ -197,24 +191,19 @@ ul.menu li a:hover {
 	margin: 0 0 0 0; 
 }
 
-.sidebar .rating_sidebar{
+.sidebar .rating_sidebar {
 	float: right;
-=======
+
 .label_passreg_text {
 	font-size: 0.7em;
 	margin-top: 3%;
 	margin-left: 2px;
->>>>>>> f8203425453b08197bb6f68014a8e415fcd330f4
 }
 
 .content {
 	text-align: left;
 	width: 620px;
-<<<<<<< HEAD
 	padding: 0 0 0 5px;
-=======
-	padding:0 0 0 5px ;
->>>>>>> f8203425453b08197bb6f68014a8e415fcd330f4
 	float: left;
 }
 
@@ -222,7 +211,6 @@ ul.menu li a:hover {
 	text-decoration: none;
 }
 
-<<<<<<< HEAD
 .films_block {
 	margin-bottom: 5%;
 }
@@ -308,9 +296,6 @@ ul.menu li a:hover {
 	border-radius: 5px;
 }
 
-
-
-=======
 .info_film {
 	margin-bottom: 5%;
 	background-color: #f9f9f9;
@@ -364,7 +349,6 @@ td img {
 	font-weight: bold;
 }
 
->>>>>>> f8203425453b08197bb6f68014a8e415fcd330f4
 .footer {
 	width: 100%;
 	height: 100px;
@@ -389,8 +373,6 @@ td img {
 
 .footer p {
 	padding: 0 0 10px 0;
-<<<<<<< HEAD
-=======
 }
 
 
@@ -400,84 +382,77 @@ td img {
 and (min-device-width: 320px)
 and (max-device-width: 568px) {
 
-	.header {
-    background-color: #000;
-    min-width: 100%;
-    height: 20%;
-    text-align: center;
-}
+		.header {
+	    background-color: #000;
+	    min-width: 100%;
+	    height: 20%;
+	    text-align: center;
+	}
 
-.logo {
-	width: 100%;
-}
+	.logo {
+		width: 100%;
+	}
 
-.site_content {
-	width: 100%;
-}
+	.site_content {
+		width: 100%;
+	}
 
-.menubar {
-    width: 100%;
-    height: 100%;
-}
+	.menubar {
+	    width: 100%;
+	    height: 100%;
+	}
 
-.content {
-	width: 100%;
-	text-align: center;
-}
+	.content {
+		width: 100%;
+		text-align: center;
+	}
 
-.site_content {
-	width: 100%;
-	text-align: center;
-}
+	.site_content {
+		width: 100%;
+		text-align: center;
+	}
 
-.sidebar_container {
-	display: none;
-}
+	.sidebar_container {
+		display: none;
+	}
 
-.footer {
-	display: none;
-}
+	ul.menu {
+		float: none;
+	}
 
-ul.menu {
-	float: none;
-}
+	ul.menu li {
+		margin: 0;
+		padding: 0;
+		float: none;
+	}
 
-ul.menu li {
-	margin: 0;
-	padding: 0;
-	float: none;
-}
+	.logo h1 {
+		font: normal 235% 'century gothic', arial, sans-serif;
+	}
 
-.logo h1 {
-	font: normal 235% 'century gothic', arial, sans-serif;
-}
-
-.logo h2 {
-	font: normal 100% 'century gothic', arial, sans-serif;
-	color: #fff;
-}
+	.logo h2 {
+		font: normal 100% 'century gothic', arial, sans-serif;
+		color: #fff;
+	}
 
 
-.content h1, h2 {
-	font: normal 110% 'century gothic', arial;
-}
+	.content h1, h2 {
+		font: normal 110% 'century gothic', arial;
+	}
 
-.films_block img {
-	width: 39%;
-}
+	.films_block img {
+		width: 39%;
+	}
 
-.posts_content p {
-	line-height: 1.5em;
-	font-size: 208%;
-	padding: 3%;
-	text-align: left;
-}
+	.posts_content p {
+		line-height: 1.5em;
+		font-size: 208%;
+		padding: 3%;
+		text-align: left;
+	}
 
-.posts p {
-	font-size: 120%;
-}
-
-
-
->>>>>>> f8203425453b08197bb6f68014a8e415fcd330f4
+	.posts p {
+		font-size: 120%;
+	}
+	
 }
