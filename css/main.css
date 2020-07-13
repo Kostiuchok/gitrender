@@ -414,6 +414,7 @@ and (max-device-width: 568px) {
 
 	ul.menu {
 		float: none;
+		margin: 0px;
 	}
 
 	ul.menu li {
