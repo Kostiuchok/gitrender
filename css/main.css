@@ -175,7 +175,6 @@ ul.menu li a:hover {
 	color: #136cb2;
 }
 
-<<<<<<< HEAD
 .labels_passreg_text {
 	font-size: 0.7em;
 	margin-top: 3%;
@@ -193,11 +192,6 @@ ul.menu li a:hover {
 
 .sidebar .rating_sidebar {
 	float: right;
-
-.label_passreg_text {
-	font-size: 0.7em;
-	margin-top: 3%;
-	margin-left: 2px;
 }
 
 .content {
@@ -348,6 +342,8 @@ td img {
 .rating {
 	font-weight: bold;
 }
+
+
 
 .footer {
 	width: 100%;
